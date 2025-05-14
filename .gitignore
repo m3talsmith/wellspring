@@ -1,0 +1,7 @@
+# latex workshop
+*.aux
+*.gz
+*.fdb_latexmk
+*.fls
+*.log
+*.toc

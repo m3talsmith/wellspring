@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article>
+    {{ section.content | safe }}
+</article>
+
+{% for s in section.subsections %}
+{% set segment = get_section(path=s) %}
+{% for p in segment.pages %}
+<article>
+    <h1>{{ p.title }}</h1>
+    {{ p.content | safe }}
+</article>
+{% endfor %}
+{% endfor %}
+
+{% endblock content %}

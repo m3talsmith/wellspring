@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <title>{% block title %}{{ config.title }}{% endblock %}</title>
+    <meta charset="UTF-8">
+    <link href="{{ get_url(path='book.css') | safe}}" rel="stylesheet" />
+</head>
+
+<body>
+    <article id="cover">
+        <h1>wellspring</h1>
+        <h3>A Collection of Ideas, Characters, and Stories</h3>
+        <h2>Michael Christenson II</h2>
+        <div class="top-right"></div>
+        <div class="bottom-left"></div>
+    </article>
+
+    {% block content %} {% endblock %}
+</body>
+
+</html>
