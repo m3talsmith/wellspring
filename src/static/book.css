@@ -49,4 +49,10 @@ h3 {
 
 article {
     border-bottom: 1px solid rgb(255, 0, 0);
+    padding-bottom: 2em;
+}
+
+em {
+    font-weight: lighter;
+    font-size: 1.2em;
 }
