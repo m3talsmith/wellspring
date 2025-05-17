@@ -26,7 +26,7 @@ _Guns ringing out in response. A scream rends the air. More groaning bodies fall
 
 I pull the scarf tighter over my face and stretch my shoulders, testing my numb arm. My fingers are starting to get some feeling again.
 
-_The rush forward, exhilarating in its daring. All those voices shouting as one, all those bodies pushing forward. The house within our grasps. Bullets shrilly screaming over our heads. Not close enough to give us pause._
+_The rush forward, exhilarating in its daring. All those voices shouting as one, all those bodies pushing forward. The house within our grasp. Bullets shrilly screaming over our heads. Not close enough to give us pause._
 
 I shouldn't have taken this mission. This is why I never go to protests. Who's plan was it to take the Mayor's mansion anyways? Probably an FBI informant giving bad ideas to ensnare the movement in the vague hope that enough of us would get snatched up, to not realize who the snitch was.
 
