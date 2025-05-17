@@ -24,7 +24,7 @@ I kick with my legs and inch forward towards the tree. Thirty more feet to go.
 
 _Guns ringing out in response. A scream rends the air. More groaning bodies fall on the forest floor._
 
-I pull the scarf tighter over my face and stretch my shoulders my shoulders, testing my numb arm. My fingers are starting to get some feeling again.
+I pull the scarf tighter over my face and stretch my shoulders, testing my numb arm. My fingers are starting to get some feeling again.
 
 _The rush forward, exhilarating in its daring. All those voices shouting as one, all those bodies pushing forward. The house within our grasps. Bullets shrilly screaming over our heads. Not close enough to give us pause._
 
