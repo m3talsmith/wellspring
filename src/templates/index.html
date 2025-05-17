@@ -2,6 +2,8 @@
 
 {% block content %}
 <article>
+    <h1 id="{{ section.title | lower }}">{{ section.title }}<a href="#{{ section.title | lower }}" class="anchor">¶</a>
+    </h1>
     {{ section.content | safe }}
 </article>
 
