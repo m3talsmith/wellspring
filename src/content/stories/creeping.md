@@ -32,7 +32,9 @@ I shouldn't have taken this mission. This is why I never go to protests. Who's p
 
 We have to keep an eye out for the adventurous and zealous. The feds have ears planted everywhere, that we are sure of; but it's adventurism taken up by their hands covertly, that we must really protect against. Their manipulations to divide or break us are laced with this.
 
-_A woman struggles to free herself. Non-descript men are bottling her in, hands firmly on her arms and shoulders, trying to bow and herd her. A shout! The kicking fury of heavy boots, trampling and collapsing the knees of some of the attackers._
+_A woman struggles to free herself. Non-descript men are bottling her in, hands firmly on her arms and shoulders, trying to bow and herd her._
+
+_A shout! The kicking fury of heavy boots, trampling and collapsing the knees of some of the woman's attackers._
 
 Ten more feet and I am covered in grime. There's more than mud and leaves, sticks and rocks, here. Pools of puke and viscera soak into the ground slowly.
 
