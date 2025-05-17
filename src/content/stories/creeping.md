@@ -40,7 +40,7 @@ _A flag is planted firmly, proudly on the other side of the front. Red as blood,
 
 Behind the house, I leverage the cellar door open. Fortunate that the owners hadn't locked it. I crouch and stretch my legs, stalking into the unlit room.
 
-Turning on the flash for my, scanning the room, I search for a soft place to rest. I take the packet of letters out of my hoodie. Nothing damaged.
+Turning on the flash for my phone, scanning the room, I search for a soft place to rest. I take the packet of letters out of my hoodie. Nothing damaged.
 
 With only two hours left before my contact shows, I slump in a corner and weep.
 
