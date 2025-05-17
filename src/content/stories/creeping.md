@@ -14,7 +14,7 @@ My poor swelling head, pounding, ears buzzing; but I can't be caught. I pat my c
 
 I reach another hand forward.
 
-Somewhere near my hip, a stick is poking me. Fighting my progress forward. I roll and crawl and progress another few inches. Not an easy task with one immobilized arm.
+Somewhere near my hip, a stick is poking me - fighting my progress forward. I roll and crawl and progress another few inches. Not an easy task with one immobilized arm.
 
 Those cops, they must have been cops, that struck me off handed, must have hit a nerve. My left arm dragging limply along side my body.
 
