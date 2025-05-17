@@ -54,4 +54,4 @@ _The truncheons fall like axes, chopping down one by one, those who tried to sav
 
 As my head drops, I wake and read my orders once more.
 
-_"To those that find these letters, you have seen the cost. The state do not let the revolution grow easily. In here, are the signs of its demise. Copy them, spread them, take care of yourselves. The revolution does not die here, it has just been born again."_
+_"To those that find these letters, you have seen the cost. The state does not let the revolution grow easily. In here, are the signs of its demise. Copy them, spread them, take care of yourselves. The revolution does not die here, it has just been born again."_
