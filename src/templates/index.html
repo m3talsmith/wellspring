@@ -9,7 +9,7 @@
 {% set segment = get_section(path=s) %}
 {% for p in segment.pages %}
 <article>
-    <h1>{{ p.title }}</h1>
+    <h1 id="{{ p.title | lower }}">{{ p.title }}<a href="#{{ p.title | lower }}" class="anchor">¶</a></h1>
     {{ p.content | safe }}
 </article>
 {% endfor %}
