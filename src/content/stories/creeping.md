@@ -52,6 +52,6 @@ _Death explodes as quickly as a gun shot. Her head snapped back and body twists 
 
 _The truncheons fall like axes, chopping down one by one, those who tried to save her. Her murderers bully and brutishly rage._
 
-I read my orders once more.
+As my head drops, I wake and read my orders once more.
 
 _"To those that find these letters, you have seen the cost. The state do not let the revolution grow easily. In here, are the signs of its demise. Copy them, spread them, take care of yourselves. The revolution does not die here, it has just been born again."_
