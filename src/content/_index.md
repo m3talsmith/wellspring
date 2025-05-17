@@ -10,4 +10,4 @@ I'll also provide links to proper works, should they ever grow out of this.
 
 Happy reading and all the best!
 
-## Michael Christenson II
+## m3talsmith
