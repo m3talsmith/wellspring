@@ -30,7 +30,7 @@ I remember later of newer comrades, disgusted by the holdings of the party not b
 
 I remember th bed; a pillow case smelling of slight must; the blanket scratchy, but warm; falling asleep in my clothes; then morning.
 
-# The next day
+## The next day
 
 I remember the warmth of fresh bagels; the hot breath of coffee; the muted noise of a large city waking up.
 
