@@ -28,7 +28,7 @@ I remember two comrades, having driven from entirely other states, and I, heads 
 
 I remember later of newer comrades, disgusted by the holdings of the party not being liquidated to provide for the social needs of the workers outside of our reach.
 
-I remember th bed; a pillow case smelling of slight must; the blanket scratchy, but warm; falling asleep in my clothes; then morning.
+I remember the bed; a pillow case smelling of slight must; the blanket scratchy, but warm; falling asleep in my clothes; then morning.
 
 ## The next day
 
