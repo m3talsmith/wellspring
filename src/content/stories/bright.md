@@ -36,7 +36,7 @@ I remember the warmth of fresh bagels; the hot breath of coffee; the muted noise
 
 I remember the reverse trip of the day before; more masks on more people, scurrying to their places of work or errands; grabbing a slice and waiting for hours for the sub to show; it being dark by the time my flight lifted off.
 
-I remember having been so caught up in revolutionary work, that I wasn't caught on the news.
+I remember having been so caught up in revolutionary work, that I wasn't caught up on the news.
 
 I remember JFK being shut down; news of a virus from another country.
 
