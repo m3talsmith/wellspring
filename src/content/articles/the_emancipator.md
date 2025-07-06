@@ -10,3 +10,7 @@ title="The Emancipator"
 
 > W. E. B. Du Bois, Why I Won't Vote, The Nation, 20 October 1956
 
+## Footnotes
+
+- [Black Reconstruction](https://cominsitu.wordpress.com/wp-content/uploads/2019/02/w-e-b-du-bois-black-reconstruction-an-essay-toward-a-history-of-the-part-which-black-folk-played-in-the-attempt-to-reconstruct-democracy-2.pdf)
+- [Why I Won't Vote](http://www.hartford-hwp.com/archives/45a/298.html)
