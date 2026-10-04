@@ -1,6 +1,6 @@
-# Distributed Systems With Go
+# Wellspring
 
-The source code of the book.
+The source code of my writing.
 
 ## Development
 
